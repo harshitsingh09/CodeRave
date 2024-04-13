@@ -11,10 +11,11 @@ accessible through mobile devices, meeting the linguistic and technological pref
 Feeling stuck with your business idea or facing challenges on your entrepreneurial journey? There's help available! This innovative voice-based chatbot caters specifically to rural entrepreneurs in India.
 
 Here's how it empowers you:
-Speak in Hindi: Ditch the typing! Ask your questions and get answers comfortably in your preferred language.
-Real-Time Guidance: Receive immediate assistance and information whenever you need it, keeping your business momentum going.
-Rural Focus: Access resources and knowledge tailored to the unique needs and opportunities of rural entrepreneurs.
-Mobile-Friendly: Available through WhatsApp on your mobile phone, providing on-the-go support wherever you are.
+
+1.Speak in Hindi: Ditch the typing! Ask your questions and get answers comfortably in your preferred language.
+2.Real-Time Guidance: Receive immediate assistance and information whenever you need it, keeping your business momentum going.
+3.Rural Focus: Access resources and knowledge tailored to the unique needs and opportunities of rural entrepreneurs.
+4.Mobile-Friendly: Available through WhatsApp on your mobile phone, providing on-the-go support wherever you are.
 
 # Current Problems:
 1. Limited access to information: Rural entrepreneurs often lack access to reliable information and guidance on starting and running businesses. Traditional resources like workshops or extension services might be geographically distant or inconvenient.
