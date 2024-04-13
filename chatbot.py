@@ -120,28 +120,28 @@ def chat():
                     high=score
                     high_class=c
             if high==0:
-                print('Vani: I did not get you')
+                print('Vaani: I did not get you')
                 speak.tts('I did not get you',lang)
                 break
             if high_class=="greeting":
                 a = random.choice(greeting)
-                print('Vani: '+a)
+                print('Vaani: '+a)
                 speak.tts(a,lang)
             elif high_class=="goodbye":
                 a = random.choice(goodbye)
-                print('Vani: '+a)
+                print('Vaani: '+a)
                 speak.tts(a,lang)
             elif high_class=="food":
                 a = random.choice(food)
-                print('Vani: '+a)
+                print('Vaani: '+a)
                 speak.tts(a,lang)
             elif high_class=="football":
                 a = random.choice(football)
-                print('Vani: '+a)
+                print('Vaani: '+a)
                 speak.tts(a,lang)
             elif high_class=="emotions":
                 a = random.choice(emotions)
-                print('Vani: '+a)
+                print('Vaani: '+a)
                 speak.tts(a,lang)
         else:
             lang='hi'

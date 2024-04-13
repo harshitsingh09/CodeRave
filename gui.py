@@ -57,7 +57,7 @@ def excel():
     os.system('start excel.exe'.format(filepath))
     
 root = Tk()
-root.title('Vani')
+root.title('Vaani')
 
 frame1 = Frame(root, height=300, width=5000)
 frame1.pack()
